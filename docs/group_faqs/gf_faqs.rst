@@ -20,7 +20,7 @@ A: Only certain regions are available when creating a Free service.  Free servic
 
 Q: Can I request a region listed on the `pricing page <https://cloud.solace.com/pricing/>`_ to be available when I'm creating a service?
 
-A: Yes, you can request a region from our Create Service screen.
+A: Yes, we add regions to PubSub+ Cloud based on customer demand and you can request a region from our Create Service screen.
 
 Click the "Request a region" link under the map
 
