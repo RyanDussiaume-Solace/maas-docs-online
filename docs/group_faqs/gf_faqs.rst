@@ -16,11 +16,9 @@ Q: Why aren't all of the regions listed on the `pricing page <https://cloud.sola
 
 A: Only certain regions are available when creating a Free service.  Free service regions are marked with an asterisk on our `pricing page <https://cloud.solace.com/pricing/>`_.  Even if you're not using a Free service, you may notice that some regions are not available.  This is because we list all of the "Available" regions on our website, while only the "Enabled" regions can be used when creating a service.
 
-Q: What is the difference between an "Available" region and an "Enabled" region?
+"Available" regions are those which have been identified as having the IaaS that is required to run our messaging services.  "Enabled" regions are those in which PubSub+ Cloud infrastructure is installed and ready to create messaging services.
 
-A: "Available" regions are those which have been identified as having the IaaS that is required to run our messaging services.  "Enabled" regions are those in which PubSub+ Cloud infrastructure is installed and ready to create messaging services.
-
-Q: Can I request an "Available" region to be "Enabled"?
+Q: Can I request a region listed on the `pricing page <https://cloud.solace.com/pricing/>`_ to be available when I'm creating a service?
 
 A: Yes, you can request a region from our Create Service screen.
 
