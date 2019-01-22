@@ -7,3 +7,7 @@ A: On the Solace Cloud `Create Service <https://console.solace.cloud/services/cr
 
 .. image:: ../img/faqs_enterprise_access_1.png
    :target: https://console.solace.cloud/services/create
+
+Q: Blah Blah
+
+A: Blah Blah
