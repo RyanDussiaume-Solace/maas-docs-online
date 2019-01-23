@@ -3,7 +3,7 @@ Frequently Answered Questions
 
 Q: How can I get access to bigger plans such as Enterprise Mega and Giga?
 
-A: If you signed up for free on `our website <https://cloud.solace.com>`_ you will be using a Basic account which only has access to the Free, Nano and Kilo plans. In order to use the bigger plans, such as Enterprise Mega and Giga, you must upgrade to an Enterprise account. To do this please `contact us <https://cloud.solace.com/pricing/>`_.
+A: If you signed up for free on `our website <https://cloud.solace.com>`_ you will be using a Basic account which only has access to the Free, Nano and Kilo plans. In order to use the bigger plans, such as Enterprise Mega and Giga, you must upgrade to an Enterprise account. To do this please `contact us <https://console.solace.cloud/support>`_.
 
 
 Q: What are plans in Solace PubSub+ cloud?
