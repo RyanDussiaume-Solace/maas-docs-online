@@ -5,6 +5,7 @@ Q: How can I get access to bigger plans such as Enterprise Mega and Giga?
 
 A: If you signed up for free on `our website <https://cloud.solace.com>`_ you will be using a Basic account which only has access to the Free, Nano and Kilo plans. In order to use the bigger plans, such as Enterprise Mega and Giga, you must upgrade to an Enterprise account. To do this please `contact us <https://cloud.solace.com/pricing/>`_.
 
+
 Q: What are plans in Solace PubSub+ cloud?
 
 A: On PubSub+ Cloud you could choose a plan to use for your messaging needs, below are the enterprise plans PubSub+ cloud offers:
@@ -51,7 +52,7 @@ Q: What's the advantage to having a subscription?
 
 A: Prepaid Subscriptions provide you a discount in return for a longer-term commitment and help you minimize your invoicing overhead.
 
->>>>>>> upstream/master
+
 Q: What clouds and regions are available?
 
 A: This information is available at the bottom of our `pricing page <https://cloud.solace.com/pricing/>`_. We are always adding more clouds and regions based on demand. If you don't see a region that you need, please get in touch with us by using the `support page in our console <https://console.solace.cloud/support>`_.  If you don't yet have access to our console you can `sign up for free <https://cloud.solace.com/signup/>`_.
