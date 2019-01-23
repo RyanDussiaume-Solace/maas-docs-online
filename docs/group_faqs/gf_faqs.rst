@@ -5,6 +5,53 @@ Q: How can I get access to bigger plans such as Enterprise Mega and Giga?
 
 A: If you signed up for free on `our website <https://cloud.solace.com>`_ you will be using a Basic account which only has access to the Free, Nano and Kilo plans. In order to use the bigger plans, such as Enterprise Mega and Giga, you must upgrade to an Enterprise account. To do this please `contact us <https://cloud.solace.com/pricing/>`_.
 
+Q: What are plans in Solace PubSub+ cloud?
+
+A: On PubSub+ Cloud you could choose a plan to use for your messaging needs, below are the enterprise plans PubSub+ cloud offers:
+
+- Nano (This is shared plan which could be used by developers)
+- Kilo
+- Mega
+- Giga
+- Tera
+
+
+Q: How are plans used?
+
+A: There are two ways you could use an enterprise plan, you can ask for a Prepaid Subscription or for On-Demand services.
+
+
+Q: How do I know what plan is best for my needs?
+
+A: To understand the details of the plans offered by PubSub+ cloud, please visit the pricing page on our site, the plans differ on number of connections
+Throughput, Usage and Storage:
+`Plans Pricing <https://cloud.solace.com/pricing/>`_ page
+
+
+Q: Can I change my plans ?
+
+A: You could raise a request to change the plan best suitable for your needs and our production engineering team will help you with it.
+
+
+Q: I have reached my limit, how can I get a higher plan limit?
+
+A: You could raise a request to add a plan best suitable for your needs and our production engineering team will help you with it.
+
+
+Q: How do On Demand plans work compared to Prepaid Subscription?
+
+A: The differences between On Demand and Prepaid Subscription plans are well described here:
+`Concept On-Demand vs Prepaid Subscription <https://cloud.solace.com/learn/group_concepts>`_
+
+You could use a mix of both On Demand and Prepaid subscriptions in your account. Most customers will choose Prepaid plans for applications with predictable usage,
+and use on-demand to cover any overages, for new applications or for those applications with variable usage.
+
+
+Q: What's the advantage to having a subscription?
+
+A: Prepaid Subscriptions provide you a discount in return for a longer-term commitment and help you minimize your invoicing overhead.
+
+>>>>>>> upstream/master
 Q: What clouds and regions are available?
 
 A: This information is available at the bottom of our `pricing page <https://cloud.solace.com/pricing/>`_. We are always adding more clouds and regions based on demand. If you don't see a region that you need, please get in touch with us by using the `support page in our console <https://console.solace.cloud/support>`_.  If you don't yet have access to our console you can `sign up for free <https://cloud.solace.com/signup/>`_.
